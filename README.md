@@ -1,7 +1,8 @@
 # query-database
+https://www.webfx.com/tools/emoji-cheat-sheet/
 
 C:\laragon\bin
-
+😄
 mysql -u root -p
 
 + show databases
